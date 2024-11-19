@@ -5,7 +5,7 @@ import time
 
 # Database settings
 DB_SETTINGS = {
-    'host': '127.0.0.1',
+    'host': 'portal.pathwaycatalyst.com',
     'user': 'maheedharraogovada',
     'password': 'Password123!',
     'database': 'test_db',
