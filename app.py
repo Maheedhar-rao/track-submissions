@@ -5,7 +5,7 @@ import time
 
 # Database settings
 DB_SETTINGS = {
-    'host': '10.0.0.1',
+    'host': '127.0.0.1',
     'user': 'maheedharraogovada',
     'password': 'Password123!',
     'database': 'test_db',
